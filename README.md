@@ -1,2 +1,2 @@
 # index.html
-“><img src=x onerror=alert(document.domain);>{{7*7}}
+<script>alert(2)</script>
