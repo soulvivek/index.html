@@ -1,2 +1,2 @@
 # index.html
-<script>alert(2)</script>
+<script>alert(document.cookie)</script>
