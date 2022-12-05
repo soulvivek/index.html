@@ -1,2 +1,2 @@
 # index.html
-<script>alert(document.cookie)</script>
+“><img src=x onerror=alert(document.domain);>{{7*7}}
